@@ -17,19 +17,12 @@ To compile and run the game, you need a C++ compiler such as:
 	•	Clang
 	•	Visual Studio
 
-Installation
-	1.	Clone the repository:
+Installation & execution:
 
-git clone https://github.com/Sheraaa/C---TicTacToe.git
-cd tic-tac-toe-cpp
-
-	2.	Compile the code:
-
-g++ -o tictactoe ttt.cpp ttt_functions.cpp
-
-	3.	Run the program:
-
-./tictactoe
+  git clone https://github.com/Sheraaa/C---TicTacToe.git
+  cd tictactoe
+  g++ -o tictactoe ttt.cpp ttt_functions.cpp
+  ./tictactoe
 
 ## How to Play
 
