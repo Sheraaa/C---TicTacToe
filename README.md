@@ -2,7 +2,7 @@
 
 This repository contains a simple implementation of the classic Tic Tac Toe game, developed in C++ as part of Codecademy exercises.
 
-Features
+Features<br>
 	•	Two-player gameplay with alternating turns.<br>
 	•	Win detection for rows, columns, and diagonals.<br>
 	•	Input validation to prevent moves on occupied positions.<br>
@@ -12,7 +12,7 @@ Features
 
 Prerequisites
 
-To compile and run the game, you need a C++ compiler such as:
+To compile and run the game, you need a C++ compiler such as:<br>
 	•	GCC<br>
 	•	Clang<br>
 	•	Visual Studio<br>
