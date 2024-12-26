@@ -21,13 +21,12 @@ Voici comment vous pouvez rédiger la section “Installation & Execution” dan
 
 ## Installation & Execution
 
-1. Clonez le dépôt :
-   ```bash
+```
    	git clone https://github.com/Sheraaa/C---TicTacToe.git
 	cd tictactoe
 	g++ -o tictactoe ttt.cpp ttt_functions.cpp
 	./tictactoe
-
+```
 ## How to Play
 
 Players take turns to choose a position on the board. Input the row and column numbers as prompted. The first player ('X') to align three symbols (horizontally, vertically, or diagonally) wins. If the board is filled without a winner, the game ends in a draw.
