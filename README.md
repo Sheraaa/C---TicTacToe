@@ -23,21 +23,10 @@ Voici comment vous pouvez rédiger la section “Installation & Execution” dan
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/Sheraaa/C---TicTacToe.git
-
-	2.	Allez dans le répertoire du projet :
-
-cd tictactoe
-
-
-	3.	Compilez les fichiers sources :
-
-g++ -o tictactoe ttt.cpp ttt_functions.cpp
-
-
-	4.	Exécutez le jeu :
-
-./tictactoe
+   	git clone https://github.com/Sheraaa/C---TicTacToe.git
+	cd tictactoe
+	g++ -o tictactoe ttt.cpp ttt_functions.cpp
+	./tictactoe
 
 ## How to Play
 
