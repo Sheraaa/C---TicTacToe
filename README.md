@@ -17,12 +17,27 @@ To compile and run the game, you need a C++ compiler such as:
 	•	Clang
 	•	Visual Studio
 
-Installation & execution:
+Voici comment vous pouvez rédiger la section “Installation & Execution” dans un fichier README.md en utilisant le format Markdown :
 
-  git clone https://github.com/Sheraaa/C---TicTacToe.git
-  cd tictactoe
-  g++ -o tictactoe ttt.cpp ttt_functions.cpp
-  ./tictactoe
+## Installation & Execution
+
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/Sheraaa/C---TicTacToe.git
+
+	2.	Allez dans le répertoire du projet :
+
+cd tictactoe
+
+
+	3.	Compilez les fichiers sources :
+
+g++ -o tictactoe ttt.cpp ttt_functions.cpp
+
+
+	4.	Exécutez le jeu :
+
+./tictactoe
 
 ## How to Play
 
