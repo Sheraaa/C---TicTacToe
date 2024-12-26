@@ -22,10 +22,10 @@ Voici comment vous pouvez rédiger la section “Installation & Execution” dan
 ## Installation & Execution
 
 ```
-   	git clone https://github.com/Sheraaa/C---TicTacToe.git
-	cd tictactoe
-	g++ -o tictactoe ttt.cpp ttt_functions.cpp
-	./tictactoe
+git clone https://github.com/Sheraaa/C---TicTacToe.git
+cd tictactoe
+g++ -o tictactoe ttt.cpp ttt_functions.cpp
+./tictactoe
 ```
 ## How to Play
 
@@ -34,7 +34,7 @@ Players take turns to choose a position on the board. Input the row and column n
 Learning Objectives
 
 This project reinforces key C++ concepts, including:
-	•	Arrays and pointers.
+	•	Functions and pointers.
 	•	Dynamic memory management.
 	•	Logical flow control for game development.
 
